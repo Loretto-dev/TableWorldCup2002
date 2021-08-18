@@ -1,0 +1,57 @@
+
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-image: url('http://www.osmais.com/wallpapers/201407/trofeu-da-copa-do-mundo-wallpaper.jpg');
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #000000;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #000000;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+h1 {
+    color: rgb(255, 217, 0);
+}
+
+th, tr, td {
+  border: solid 1px #f29f05;
+  color: #000000;
+  text-transform: full-width;
+  font-size: 1.3em;
+}
